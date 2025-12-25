@@ -1,0 +1,2 @@
+# Diary
+My virtual diary
